@@ -1,4 +1,5 @@
 <h1>Git Test</h1>
 <p>Git udemy受講中です2</p>
 <p>Git diff</p>
-git commit --amendしたいのでテスト入力
+<p>git commit --amendしたいのでテスト入力</p>
+<p>source treeｲﾝｽﾄｰﾙしたのでコマンドでも問題ないか確認</p>
