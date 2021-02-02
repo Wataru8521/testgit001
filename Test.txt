@@ -3,3 +3,4 @@
 <p>Git diff</p>
 <p>git commit --amendしたいのでテスト入力</p>
 <p>source treeｲﾝｽﾄｰﾙしたのでコマンドでも問題ないか確認</p>
+あいうえお
